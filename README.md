@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankax&label=Profile%20views&color=0e75b6&style=flat" alt="aryankax" /> </p>
 
-- 🔭 I’m currently working on **Web scraping and Web-Automation**
+- 🔭 I’m currently working on **Web scraping and Web Automation**
 
 - 🌱 I’m currently learning **Selenium, FastAPI, Data Structures and Algorithms**
 
